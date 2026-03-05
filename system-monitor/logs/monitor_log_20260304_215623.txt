@@ -1,0 +1,6 @@
+
+Data/Hora: 2026-03-04 21:56:24.951302
+Uso de CPU: 0.9%
+Uso de RAM: 49.0%
+Uso de Disco: 50.5%
+
